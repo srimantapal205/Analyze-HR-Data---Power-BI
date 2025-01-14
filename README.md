@@ -1,4 +1,4 @@
-# Power BI Project Summary: Employee Insights Dashboard
+# Power BI Project Summary: Employee Data Analytics Dashboard
 
 
 ## Objective:
